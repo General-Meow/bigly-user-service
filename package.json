@@ -8,5 +8,8 @@
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "General-Meow",
-  "license": "ISC"
+  "license": "ISC",
+  "dependencies": {
+    "mongoose": "^6.0.7"
+  }
 }
