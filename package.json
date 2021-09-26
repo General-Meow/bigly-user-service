@@ -1,0 +1,11 @@
+{
+  "name": "bigly-user-service",
+  "version": "1.0.0",
+  "description": "crud for users",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "General-Meow",
+  "license": "ISC"
+}
